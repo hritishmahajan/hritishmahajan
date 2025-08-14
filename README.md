@@ -46,13 +46,14 @@
 
 ## 🏆 **Badges & Certifications**
 <div>
-  <a href="YOUR_AWS_DEVOPS_BADGE_LINK" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0e4fc0b8-2f12-48d0-8c8f-b573b9f09df0/image.png" width="100" alt="AWS Certified DevOps Engineer">
+  <a href="https://www.credly.com/badges/84c8ae47-a4e2-470d-9b2e-632778149476" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0e4fc0b8-2f12-48d0-8c8f-b573b9f09df0/image.png" width="100" alt="AWS Academy Cloud Architecting">
   </a>
   <a href="https://www.credly.com/badges/86f580fb-c08b-4f0f-8ac4-7b5127a21866/print" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/f0029bce-7489-4c18-9d6d-d5eb5ba26553/AWS_Academy_Cloud_Foundations.png" width="100" alt="AWS Academy Cloud Foundations">
   </a>
 </div>
+
 
 
 ---
