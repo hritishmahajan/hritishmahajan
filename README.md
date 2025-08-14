@@ -46,12 +46,11 @@
 
 ## 🏆 **Badges & Certifications**
 <div>
-  <!-- Replace placeholders with your actual Credly badge links -->
   <a href="YOUR_AWS_DEVOPS_BADGE_LINK" target="_blank">
     <img src="https://images.credly.com/size/340x340/images/0e4fc0b8-2f12-48d0-8c8f-b573b9f09df0/image.png" width="100" alt="AWS Certified DevOps Engineer">
   </a>
-  <a href="YOUR_AWS_CLOUD_PRACTITIONER_BADGE_LINK" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/6848ab1b-0464-4bef-802c-a6a31521b6f0/AWS-Cloud-Practitioner.png" width="100" alt="AWS Cloud Practitioner">
+  <a href="https://www.credly.com/badges/86f580fb-c08b-4f0f-8ac4-7b5127a21866/print" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/6848ab1b-0464-4bef-802c-a6a31521b6f0/AWS-Cloud-Practitioner.png" width="100" alt="AWS Cloud Foundations">
   </a>
   <a href="https://www.credly.com/badges/be5f2810-4fce-450d-97b9-b76f636fcf42" target="_blank">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" alt="DMRC Internship Badge">
