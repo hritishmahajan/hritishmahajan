@@ -16,25 +16,24 @@
 - ⚡ Fun fact: I love cars, history, and fitness!
 
 ---
-
 ## 🤝 **Let's Connect**
 <p align="left">
-<a href="mailto:hritishx@gmail.com" target="_blank" style="margin-right:15px;">
+<a href="mailto:hritishx@gmail.com" target="_blank" style="text-decoration:none; margin-right:15px;">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/hritish-mahajan/" target="_blank" style="margin-right:15px;">
+</a>
+<a href="https://www.linkedin.com/in/hritish-mahajan/" target="_blank" style="text-decoration:none; margin-right:15px;">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>&nbsp;
-<a href="https://leetcode.com/u/hritish12/" target="_blank" style="margin-right:15px;">
+</a>
+<a href="https://leetcode.com/u/hritish12/" target="_blank" style="text-decoration:none; margin-right:15px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
-</a>&nbsp;
-<a href="https://www.geeksforgeeks.org/user/hritishmahajan/" target="_blank" style="margin-right:15px;">
+</a>
+<a href="https://www.geeksforgeeks.org/user/hritishmahajan/" target="_blank" style="text-decoration:none; margin-right:15px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" />
-</a>&nbsp;
-<a href="https://x.com/hritish_mahajan/" target="_blank" style="margin-right:15px;">
+</a>
+<a href="https://x.com/hritish_mahajan/" target="_blank" style="text-decoration:none; margin-right:15px;">
   <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-</a>&nbsp;
-<a href="https://www.instagram.com/hritish_mahajan/" target="_blank">
+</a>
+<a href="https://www.instagram.com/hritish_mahajan/" target="_blank" style="text-decoration:none;">
   <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
