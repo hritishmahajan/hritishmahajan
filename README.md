@@ -55,9 +55,6 @@
   <img src="https://images.credly.com/size/340x340/images/6848ab1b-0464-4bef-802c-a6a31521b6f0/AWS-Cloud-Practitioner.png" width="100" alt="AWS Cloud Practitioner">
 </a>
 
-<a href="https://www.credly.com/badges/be5f2810-4fce-450d-97b9-b76f636fcf42" target="_blank">
-  <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="100" alt="DMRC Internship Badge">
-</a>
 
 </div>
 
