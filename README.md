@@ -19,13 +19,26 @@
 
 ## 🤝 **Let's Connect**
 <p align="left">
-<a href="mailto:hritishx@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="30" /></a>
-<a href="https://www.linkedin.com/in/hritish-mahajan/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-<a href="https://leetcode.com/u/hritish12/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
-<a href="https://www.geeksforgeeks.org/user/hritishmahajan/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" /></a>
-<a href="https://x.com/hritish_mahajan/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
-<a href="https://www.instagram.com/hritish_mahajan/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
+<a href="mailto:hritishx@gmail.com" target="_blank" style="margin-right:15px;">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/hritish-mahajan/" target="_blank" style="margin-right:15px;">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>&nbsp;
+<a href="https://leetcode.com/u/hritish12/" target="_blank" style="margin-right:15px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" />
+</a>&nbsp;
+<a href="https://www.geeksforgeeks.org/user/hritishmahajan/" target="_blank" style="margin-right:15px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" />
+</a>&nbsp;
+<a href="https://x.com/hritish_mahajan/" target="_blank" style="margin-right:15px;">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>&nbsp;
+<a href="https://www.instagram.com/hritish_mahajan/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
 </p>
+
 
 ---
 
@@ -47,12 +60,14 @@
 ## 🏆 **Badges & Certifications**
 <div>
   <a href="https://www.credly.com/badges/84c8ae47-a4e2-470d-9b2e-632778149476" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/0e4fc0b8-2f12-48d0-8c8f-b573b9f09df0/image.png" width="100" alt="AWS Academy Cloud Architecting">
+    <img src="https://images.credly.com/size/340x340/images/0e4fc0b8-2f12-48d0-8c8f-b573b9f09df0/image.png" width="120" alt="AWS Academy Cloud Architecting">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.credly.com/badges/86f580fb-c08b-4f0f-8ac4-7b5127a21866/print" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/f0029bce-7489-4c18-9d6d-d5eb5ba26553/AWS_Academy_Cloud_Foundations.png" width="100" alt="AWS Academy Cloud Foundations">
+    <img src="https://images.credly.com/size/340x340/images/f0029bce-7489-4c18-9d6d-d5eb5ba26553/AWS_Academy_Cloud_Foundations.png" width="120" alt="AWS Academy Cloud Foundations">
   </a>
 </div>
+
 
 
 
