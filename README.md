@@ -104,7 +104,7 @@
 </table>
 
 ---
-<!-- 
+
 ## 🧮 **LeetCode & GeeksforGeeks Stats**
 <table>
 <tr>
@@ -123,7 +123,6 @@
 </tr>
 </table>
 
---- -->
 
 ## 📈 **Contribution Graph**
 <div align="center">
